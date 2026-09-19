@@ -11,7 +11,7 @@ I thrive in environments that embrace continuous learning, clean architecture, a
 * 💻 I’m based in Cairo, Egypt
 * 📬 You can contact me at mahmoudmohsenatta@gmail.com
 * 💼 I’m currently working on https://www.mo-hr.com/ar
-* 🧠 I’m learning Node.js
+* 🧠 I’m learning Django
 
 ### Skills
 <p align="left" dir="auto">
